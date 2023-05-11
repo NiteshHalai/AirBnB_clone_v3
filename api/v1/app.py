@@ -1,5 +1,10 @@
 #!/usr/bin/python3
-"""Version 1 of the HBNB REST api"""
+
+"""Version 1 of the HBNB REST api
+TEST 123 45
+Lorem ipsum
+Test test test"""
+
 from flask import Flask, jsonify
 from flask_cors import CORS
 from models import storage
